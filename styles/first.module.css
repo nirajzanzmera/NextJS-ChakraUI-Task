@@ -1,0 +1,6 @@
+.flexStyle{
+    margin-right: 3%;
+
+}
+
+.requiredfield::after { content: "*"; color: red; }
